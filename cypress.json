@@ -1,1 +1,4 @@
-{}
+{
+  "experimentalFetchPolyfill": true,
+  "experimentalNetworkStubbing": true
+}
